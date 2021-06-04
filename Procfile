@@ -1,1 +1,1 @@
-web: gunicorn ashuilubajaj.wsgi
+web: gunicorn ASHUIIIII.wsgi
