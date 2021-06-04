@@ -1,1 +1,1 @@
-web: gunicorn ashuilubajaj.wsgi --log file -
+web: gunicorn ashuilubajaj.wsgi
