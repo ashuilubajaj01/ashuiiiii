@@ -1,1 +1,1 @@
-web: gunicorn ashuiiiii.shopping.wsgi.py
+web: gunicorn shopping.wsgi.py
