@@ -27,6 +27,8 @@ DEBUG = False
 ALLOWED_HOSTS = ['foodizone5.herokuapp.com']
 
 
+
+
 # Application definition
 
 INSTALLED_APPS = [
